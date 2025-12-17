@@ -1,0 +1,154 @@
+[
+  {
+    "timestamp": "2025-09-04 18:41:08.268665",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}]"
+  },
+  {
+    "timestamp": "2025-09-04 18:41:18.882838",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500},\n  {\"base\":90, \"motor1\":135, \"motor2\":45, \"motor3\":135, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-04 19:52:18.377057",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500},\n  {\"base\":90, \"motor1\":135, \"motor2\":45, \"motor3\":135, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-04 19:52:30.411988",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500},\n  {\"base\":135, \"motor1\":45, \"motor2\":135, \"motor3\":45, \"grip_rotate\":170, \"grip\":10, \"delay\":1000},\n  {\"base\":45, \"motor1\":135, \"motor2\":45, \"motor3\":135, \"grip_rotate\":10, \"grip\":170, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-10 19:32:29.299023",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-10 19:32:47.103877",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":170, \"grip_rotate\":89, \"grip\":167, \"delay\":500},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":170, \"grip_rotate\":89, \"grip\":167, \"delay\":500},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 10:46:07.411086",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":171, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:21:14.462771",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":171, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:21:25.928608",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":131, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:21:37.034482",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":120, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":150, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:21:37.376581",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":121, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":61, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:21:52.913068",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":120, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:21:53.274662",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":60, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:22:09.868256",
+    "json": "[\n  {\"base\":90, \"motor1\":110, \"motor2\":110, \"motor3\":110, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:23:01.224585",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:23:11.378440",
+    "json": "[\n  {\"base\":90, \"motor1\":110, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:23:11.439173",
+    "json": "[\n  {\"base\":90, \"motor1\":110, \"motor2\":110, \"motor3\":110, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:23:22.045562",
+    "json": "[\n  {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 11:23:22.096147",
+    "json": "[\n  {\"base\":90, \"motor1\":80, \"motor2\":80, \"motor3\":80, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 13:12:04.825228",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}]"
+  },
+  {
+    "timestamp": "2025-09-16 13:12:30.121449",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}]"
+  },
+  {
+    "timestamp": "2025-09-16 13:12:30.600873",
+    "json": "[\n{\"base\":90, \"motor1\":91, \"motor2\":180, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n{\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 13:12:58.120461",
+    "json": "[\n{\"base\":90, \"motor1\":91, \"motor2\":180, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000},\n{\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 14:49:36.762369",
+    "json": "[\n  {\"base\":89, \"motor1\":None, \"motor2\":None, \"motor3\":None, \"grip_rotate\":None, \"grip\":None, \"delay\":500}\n]"
+  },
+  {
+    "timestamp": "2025-09-16 15:03:28.578036",
+    "json": "[{\"base\":90, \"motor1\":120, \"motor2\":60, \"motor3\":120, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:20:58.081078",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":45, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}, {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:21:56.428427",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":45, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}, {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:25:17.172488",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":45, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}, {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:25:27.488823",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":45, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}, {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:25:51.961709",
+    "json": "[{\"base\":90, \"motor1\":91, \"motor2\":45, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}, {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:29:17.463718",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:29:28.208627",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:29:38.143505",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:29:47.569485",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:29:55.705780",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:30:05.643193",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 300}, {\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  },
+  {
+    "timestamp": "2025-09-16 15:30:17.111529",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  },
+  {
+    "timestamp": "2025-09-23 23:42:17.917179",
+    "json": "[{\"base\": 90, \"motor1\": 91, \"motor2\": 45, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 1000}, {\"base\": 90, \"motor1\": 91, \"motor2\": 91, \"motor3\": 91, \"grip_rotate\": 89, \"grip\": 167, \"delay\": 500}]"
+  }
+]

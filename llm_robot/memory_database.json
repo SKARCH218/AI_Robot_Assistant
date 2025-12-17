@@ -1,0 +1,288 @@
+{
+  "user_preferences": {
+    "communication_style": "friendly",
+    "preferred_greetings": [],
+    "favorite_movements": [],
+    "learning_patterns": {}
+  },
+  "conversation_memory": {
+    "topics_discussed": [
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-16T14:58:56.401156",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:00:14.710201",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-16T15:00:40.988856",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-16T15:02:52.946182",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:03:29.581115",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:04:26.178304",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-16T15:20:59.588151",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:21:57.933466",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:22:32.068181",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-16T15:25:04.714764",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:25:18.678724",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:25:28.995162",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:25:53.467770",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-16T15:29:20.276707",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:29:32.322595",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:29:39.651195",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:29:49.077617",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:30:01.123801",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:30:12.366412",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "general_chat",
+        "timestamp": "2025-09-16T15:30:18.617597",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "question",
+        "timestamp": "2025-09-16T15:31:27.486553",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-16T15:37:34.820626",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "question",
+        "timestamp": "2025-09-16T15:38:37.283290",
+        "user_satisfaction": "unknown"
+      },
+      {
+        "topic": "greeting",
+        "timestamp": "2025-09-23T23:42:19.438618",
+        "user_satisfaction": "unknown"
+      }
+    ],
+    "user_feedback": [
+      {
+        "timestamp": "2025-09-16T15:22:32.071686",
+        "user_input": "잘했어! 그렇게 하면돼",
+        "feedback_type": "positive",
+        "details": "사용자가 긍정적 반응을 보임"
+      }
+    ],
+    "successful_interactions": [
+      {
+        "timestamp": "2025-09-16T15:22:32.071686",
+        "user_input": "잘했어! 그렇게 하면돼",
+        "feedback_type": "positive",
+        "details": "사용자가 긍정적 반응을 보임"
+      }
+    ],
+    "failed_interactions": []
+  },
+  "learning_insights": {
+    "effective_responses": [
+      {
+        "user_pattern": "안녕?",
+        "successful_response": "안녕하세요! 😊 저는 오늘 하루를 어떻게 도와드릴까요? 🚀",
+        "timestamp": "2025-09-16T14:58:56.403089"
+      },
+      {
+        "user_pattern": "워",
+        "successful_response": "좋아요! 🚀 저도 오늘 하루를 도와드릴게요! 😊 뭘 도와드릴까요?",
+        "timestamp": "2025-09-16T15:00:14.713449"
+      },
+      {
+        "user_pattern": "안녕? 만나서 반가워",
+        "successful_response": "알았어! 😊 만나서 반가워! 🚀 너 대해서는 뭐 궁금한 거 있어?",
+        "timestamp": "2025-09-16T15:00:40.990665"
+      },
+      {
+        "user_pattern": "안녕 인사해줄래?",
+        "successful_response": "움직여! 😊 슝! 🚀",
+        "timestamp": "2025-09-16T15:02:52.947729"
+      },
+      {
+        "user_pattern": "인",
+        "successful_response": "안녕하세요! 😊 저는 오늘 하루를 도와드릴게요! 🚀 궁금한 거 있으시면 언제든지 물어보세요! 😊 \n\n기억해줄게요! 이렇게 움직여볼까요? 😊",
+        "timestamp": "2025-09-16T15:03:29.582847"
+      },
+      {
+        "user_pattern": "moter2 를 180도로 설정해볼래?",
+        "successful_response": "네! 슝! 🚀 😊 모터2를 180도로 설정해볼까요?",
+        "timestamp": "2025-09-16T15:04:26.181533"
+      },
+      {
+        "user_pattern": "안녕,인사해줄래?",
+        "successful_response": "네! 인사할게요! ��",
+        "timestamp": "2025-09-16T15:20:59.589866"
+      },
+      {
+        "user_pattern": "돼",
+        "successful_response": "네! 슝! 🚀 😊 안녕하세요!  приятно! 🩷",
+        "timestamp": "2025-09-16T15:21:57.935133"
+      },
+      {
+        "user_pattern": "잘했어! 그렇게 하면돼",
+        "successful_response": "안녕하세요! 😊 저는 DOFBOT이에요! 오늘 함께 어떤 일들을 도와드릴까요? 슝! 🚀",
+        "timestamp": "2025-09-16T15:22:32.069838"
+      },
+      {
+        "user_pattern": "안녕 만나서반가워!",
+        "successful_response": "네! 만나서반가워! 😊 저는 DOFBOT이에요! 오늘 함께 어떤 일들을 도와드릴까요? 슝! 🚀",
+        "timestamp": "2025-09-16T15:25:04.716308"
+      },
+      {
+        "user_pattern": "인사해줄래?",
+        "successful_response": "네! 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:25:18.680478"
+      },
+      {
+        "user_pattern": "인사 연속 두번 해볼래?",
+        "successful_response": "네! 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:25:28.996972"
+      },
+      {
+        "user_pattern": "인사 연속 두번 해볼래?",
+        "successful_response": "네! 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:25:53.469563"
+      },
+      {
+        "user_pattern": "안녕? 인사 두번 해줄래?",
+        "successful_response": "네! 연속으로 두 번 인사할게요! 👋👋",
+        "timestamp": "2025-09-16T15:29:20.278521"
+      },
+      {
+        "user_pattern": "인사 세번 해줄래?",
+        "successful_response": "네! 연속으로 세 번 인사할게요! 👋👋👋",
+        "timestamp": "2025-09-16T15:29:32.324159"
+      },
+      {
+        "user_pattern": "인사 100번 해줄래?",
+        "successful_response": "네! 연속으로 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:29:39.652948"
+      },
+      {
+        "user_pattern": "인사 백번해줄래?",
+        "successful_response": "네! 연속으로 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:29:49.113745"
+      },
+      {
+        "user_pattern": "인사 네번 해줄래?",
+        "successful_response": "네! 연속으로 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:30:01.125359"
+      },
+      {
+        "user_pattern": "인사 다섯번 해줄래?",
+        "successful_response": "네! 연속으로 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:30:12.367968"
+      },
+      {
+        "user_pattern": "인사 열번해줄래?",
+        "successful_response": "네! 연속으로 인사할게요! 👋",
+        "timestamp": "2025-09-16T15:30:18.619179"
+      },
+      {
+        "user_pattern": "넌 이름이 뭐야?",
+        "successful_response": "나는 DOFBOT이고, 챗봇이야! 🤖✨ 너랑 이야기할 수 있어서 정말 기뻐! 😊",
+        "timestamp": "2025-09-16T15:31:27.488159"
+      },
+      {
+        "user_pattern": "안녕?",
+        "successful_response": "안녕하세요! 👋 잘 지냈어요? 오늘 뭐 하고 지내세요? 😊",
+        "timestamp": "2025-09-16T15:37:34.822188"
+      },
+      {
+        "user_pattern": "혹시 앞에 뭐가보여?",
+        "successful_response": "안녕하세요! 👋 잘 지냈어요? 오늘 뭐 하고 지내세요? 😊 궁금한 거 있으세요?",
+        "timestamp": "2025-09-16T15:38:37.284971"
+      },
+      {
+        "user_pattern": "안녕? 인사해줄래?",
+        "successful_response": "네! 연속으로 인사할게요! 👋",
+        "timestamp": "2025-09-23T23:42:19.442197"
+      }
+    ],
+    "movement_preferences": [],
+    "conversation_patterns": []
+  },
+  "personality_traits": {
+    "friendliness_level": 9.299999999999995,
+    "helpfulness_level": 9,
+    "playfulness_level": 7
+  },
+  "custom_actions": {
+    "인사": {
+      "description": "motor2를 45도로 기울였다가 홈자세로 복귀",
+      "json_command": "[{\"base\":90, \"motor1\":91, \"motor2\":45, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":1000}, {\"base\":90, \"motor1\":91, \"motor2\":91, \"motor3\":91, \"grip_rotate\":89, \"grip\":167, \"delay\":500}]",
+      "learned_at": "2025-09-16T15:24:28.659897",
+      "usage_count": 17
+    }
+  }
+}

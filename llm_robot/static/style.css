@@ -1,0 +1,237 @@
+
+body {
+	background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+	font-family: 'Noto Sans KR', 'NanumSquare', 'Apple SD Gothic Neo', Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 32px;
+	max-width: 980px;
+	margin: 40px auto;
+}
+.chat-box {
+	scrollbar-width: thin;
+	scrollbar-color: rgba(173,216,230,0.38) rgba(255,255,255,0.18);
+/* 글래스모피즘 스크롤바 (Webkit) */
+.chat-box::-webkit-scrollbar {
+	width: 12px;
+	background: rgba(255,255,255,0.12);
+	border-radius: 8px;
+}
+.chat-box::-webkit-scrollbar-thumb {
+	background: rgba(173,216,230,0.38);
+	border-radius: 8px;
+	box-shadow: 0 2px 8px rgba(31,38,135,0.10);
+	border: 2px solid rgba(255,255,255,0.22);
+}
+.chat-box::-webkit-scrollbar-thumb:hover {
+	background: rgba(173,216,230,0.52);
+}
+	background: rgba(255,255,255,0.22);
+	border-radius: 24px;
+	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+	backdrop-filter: blur(12px);
+	-webkit-backdrop-filter: blur(12px);
+	border: 1.5px solid rgba(255,255,255,0.28);
+	padding: 32px 24px 24px 24px;
+	min-height: 420px;
+	max-height: 540px;
+	overflow-y: auto;
+	margin-bottom: 8px;
+}
+/* 채팅 말풍선 간격을 항상 일정하게 유지 */
+.user, .bot {
+	margin-bottom: 24px;  /* 모든 말풍선 사이 일정한 간격 */
+	padding: 0;
+	clear: both;  /* float 영향 제거 */
+	min-height: 40px;  /* 최소 높이로 일정한 간격 보장 */
+}
+
+.user {
+	text-align: right;  /* 사용자 말풍선은 오른쪽 정렬 */
+}
+
+.bot {
+	text-align: left;  /* 봇 말풍선은 왼쪽 정렬 */
+}
+
+/* 이름 표시 스타일 */
+.user div:first-child, .bot div:first-child {
+	margin-bottom: 4px;
+	font-size: 0.9em;
+	font-weight: 600;
+	opacity: 0.8;
+}
+
+.user div:first-child {
+	color: #007bff;
+	text-align: right;
+}
+
+.bot div:first-child {
+	color: #007bff;
+	text-align: left;
+}
+
+.bubble {
+	display: inline-block;
+	padding: 14px 22px;
+	border-radius: 18px;
+	font-size: 1.08em;
+	line-height: 1.6;  /* 줄간격을 1.6배로 설정하여 일정한 간격 유지 */
+	max-width: 80%;
+	word-break: break-word;
+	box-shadow: 0 4px 24px rgba(31, 38, 135, 0.12);
+	border: 1.5px solid rgba(255,255,255,0.22);
+	background: rgba(255,255,255,0.32);
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
+	transition: background 0.2s, box-shadow 0.2s;
+	margin: 0;  /* 기본 마진 제거 */
+}
+
+.user .bubble {
+	background: rgba(173,216,230,0.32);
+	color: #007bff;
+	border: 1.5px solid rgba(173,216,230,0.22);
+}
+
+.bot .bubble {
+	background: rgba(255,255,255,0.38);
+	color: #222;
+	border: 1.5px solid rgba(255,255,255,0.22);
+}
+.bubble.pending {
+	background: rgba(255,255,255,0.18);
+	color: #888;
+	opacity: 0.7;
+	animation: fadeBlink 1.2s infinite;
+}
+@keyframes fadeBlink {
+	0% { opacity: 0.7; }
+	50% { opacity: 1; }
+	100% { opacity: 0.7; }
+}
+#chat-form {
+	display: flex;
+	gap: 8px;
+	margin-top: 12px;
+	position: relative;
+}
+#chat-input {
+	flex: 1;
+	font-size: 1.08em;
+	border-radius: 14px;
+	border: 1.5px solid rgba(173,216,230,0.32);
+	padding: 12px 20px;
+	outline: none;
+	background: rgba(255,255,255,0.38);
+	box-shadow: 0 4px 24px rgba(31,38,135,0.12);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+	transition: border 0.2s, box-shadow 0.2s;
+	position: relative;
+	z-index: 2;
+}
+#chat-input:focus {
+	border: 2px solid #007bff;
+	box-shadow: 0 8px 32px rgba(31,38,135,0.18);
+#chat-form .input-bg {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 16px;
+	background: rgba(255,255,255,0.22);
+	box-shadow: 0 4px 24px rgba(31,38,135,0.10);
+	backdrop-filter: blur(12px);
+	-webkit-backdrop-filter: blur(12px);
+	border: 1.5px solid rgba(255,255,255,0.18);
+	z-index: 1;
+}
+}
+#chat-form button {
+	background: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 8px;
+	padding: 0 18px;
+	font-size: 1.08em;
+	cursor: pointer;
+	transition: background 0.2s;
+}
+#chat-form button:hover {
+	background: #0056b3;
+}
+/* 각도 패널 */
+.angle-panel {
+	width: 220px;
+	min-width: 170px;
+	background: rgba(255,255,255,0.22);
+	border-radius: 20px;
+	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+	backdrop-filter: blur(12px);
+	-webkit-backdrop-filter: blur(12px);
+	border: 1.5px solid rgba(255,255,255,0.28);
+	padding: 28px 18px;
+	margin-left: 8px;
+}
+.angle-panel-header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 16px;
+}
+.angle-panel-title {
+	font-weight: bold;
+	color: #007bff;
+	font-size: 1.08em;
+}
+.angle-block {
+	background: #fff;
+	border-radius: 8px;
+	box-shadow: 0 1px 4px #e0e7ef;
+	padding: 10px 12px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 12px;
+}
+.angle-block:last-child {
+	margin-bottom: 0;
+}
+.angle-label {
+	font-weight: 500;
+	color: #555;
+}
+.angle-value {
+	font-weight: bold;
+	color: #007bff;
+	margin-left: 8px;
+}
+.edit-angle-btn {
+	background: none;
+	border: none;
+	cursor: pointer;
+	margin-left: 8px;
+	padding: 2px;
+}
+.edit-angle-btn svg {
+	vertical-align: middle;
+}
+#home-btn {
+	background: none;
+	border: none;
+	cursor: pointer;
+	padding: 2px 4px;
+}
+#home-btn svg {
+	vertical-align: middle;
+}
